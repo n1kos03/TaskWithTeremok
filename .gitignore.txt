@@ -1,0 +1,4 @@
+# Additional files from makinh .tax file
+*.aux
+*.lof
+*.lot
